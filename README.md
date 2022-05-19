@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">	A Biomedical Engineering student :mechanical_arm: Passionate about Software Engineer & Data scientist	:technologist:</h3>
+<h3 align="center">	A Biomedical Engineering student :mechanical_arm: Passionate about Software Engineering & Data Science	:technologist:</h3>
 
 <p align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="animated" />
